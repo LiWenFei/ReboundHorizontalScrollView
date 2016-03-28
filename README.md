@@ -4,6 +4,7 @@ ReboundHorizontalScrollView是一个左侧，右侧回弹效果的控件
 
 
 //以下是实现这个控件的自定义监听事件
+
 reboundHorizontalScrollView.setOnReboundListtener(new ReboundHorizontalScrollView.OnReboundListener() {
 
             @Override
